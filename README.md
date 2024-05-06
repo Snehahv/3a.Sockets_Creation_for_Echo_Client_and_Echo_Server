@@ -9,8 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.  
 
-**NAME:SUBHASHINI.B**  
-**REGISTER NUMBER :212223040211**  
+**NAME:SNEHA HV**  
+**REGISTER NUMBER :212222040157**  
 ## PROGRAM
 ## SERVER
 
